@@ -62,7 +62,8 @@
     "vaul": "^0.9.3",
     "zod": "^3.23.8",
     "": "latest",
-    "@stripe/stripe-js@latest": "latest"
+    "@stripe/stripe-js@latest": "latest",
+    "@stripe/react-stripe-js@latest": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
