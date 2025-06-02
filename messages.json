@@ -6,5 +6,9 @@
   {
     "role": "user",
     "content": "The deployment failed with the following error from Fly.io:\n\n{'#10 1.821 error during build:\\n#10 1.821 [vite]: Rollup failed to resolve import \"@stripe/stripe-js\" from \"/app/src/pages/Stripe.tsx\".\\n#10 1.821 This is most likely unintended because it can break your application at runtime.'}\n\nPlease fix the issue."
+  },
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\n{'#8 1.790 npm error code EINVALIDPACKAGENAME\\n#8 1.790 npm error Invalid package name \"@stripe/stripe-js@latest\" of package \"@stripe/stripe-js@latest@latest\": name can only contain URL-friendly characters.\\n#8 1.793 npm notice'}\n\nPlease fix the issue."
   }
 ]
