@@ -1,0 +1,6 @@
+[
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\n{'#10 2.890 error during build:\\n#10 2.890 [vite]: Rollup failed to resolve import \"@stripe/stripe-js\" from \"/app/src/pages/Stripe.tsx\".\\n#10 2.890 This is most likely unintended because it can break your application at runtime.'}\n\nPlease fix the issue."
+  }
+]
